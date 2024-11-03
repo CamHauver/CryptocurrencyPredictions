@@ -1,6 +1,8 @@
 # CryptocurrencyPredictions
 #This project involves creating an unsupervised learning model to predict if cryptocurrencies are affected by 24hr or 7day price changes, utilizing Python, pandas, hvplot, and sklearn.
 
+#Original code sources: Data Analytics course Module 19 Challenge files. Data Analytics course instructor, Andrew Hoang's, speed run Zoom recording for Module 19 Challenge.
+
 #Code for the model can be found in Crypto_Clustering.ipynb
 
 #Data source file is crypto_market_data.csv
